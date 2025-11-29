@@ -1,0 +1,28 @@
+# Maven build directory
+target/
+
+# Logs
+*.log
+
+# IntelliJ / Eclipse / VS Code
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.vscode/
+
+# OS files
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Gradle (not used but safe)
+.gradle/
+build/
+
+# Local env files
+.env
+*.env
